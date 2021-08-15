@@ -14,11 +14,25 @@
    "file": "https://drive.google.com/file/d/1Fn43usif0WWG3uggKxN6JpmwhbCBAvj9"
 },
 {
+   "id":    "react-hooks",
+   "title": "React Hooks",
+   "level": "Básico",
+   "description": "12 páginas",
+   "file": "https://drive.google.com/file/d/1kzrqOTPyBsaHp_0EsBoBZyvcCS6o0pwo"
+},
+{
    "id":    "python",
    "title": "Python",
    "level": "Básico",
    "description": "25 páginas",
    "file": "https://drive.google.com/file/d/12_1yUhaGeoH7wLGqrHiSx987FMdqM_Mv"
+},
+{
+   "id":    "poo-python",
+   "title": "POO con Python",
+   "level": "Intermedio",
+   "description": "10 páginas",
+   "file": "https://drive.google.com/file/d/1ChoJPc0Yhpq_QZhLSwjntqhum46WJ07Z"
 },
 {
    "id":    "css",
