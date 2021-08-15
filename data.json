@@ -12,6 +12,36 @@
    "level": "Básico",
    "description": "24 páginas",
    "file": "https://drive.google.com/file/d/1Fn43usif0WWG3uggKxN6JpmwhbCBAvj9"
+},
+{
+   "id":    "python",
+   "title": "Python",
+   "level": "Básico",
+   "description": "25 páginas",
+   "file": "https://drive.google.com/file/d/12_1yUhaGeoH7wLGqrHiSx987FMdqM_Mv"
+},
+{
+   "id":    "css",
+   "title": "CSS",
+   "level": "Básico/Intermedio",
+   "description": "62 páginas",
+   "file": "https://drive.google.com/file/d/1WqIw3tPS6gNhEnma7iHl-PEfByKSIYGK"
+},
+{
+   "id":    "sql",
+   "title": "SQL",
+   "level": "Básico",
+   "description": "30 páginas",
+   "file": "https://drive.google.com/file/d/1SwcIcPijg0jSjLMAc86gDZV_iDmrKUih"
+},
+{
+   "id":    "git",
+   "title": "GIT",
+   "level": "Básico",
+   "description": "11 páginas",
+   "file": "https://drive.google.com/file/d/1sHgKrrea1-HpityOEYqFLjRdaum85CnW"
 }
+
+
 
 ]

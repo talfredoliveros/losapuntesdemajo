@@ -1,4 +1,5 @@
-import type {NextPage} from 'next'
+import * as React  from "react"
+import type {GetStaticProps,NextPage} from 'next'
 import Head from 'next/head'
 import Image from 'next/image';
 
@@ -66,7 +67,7 @@ export const getStaticProps: GetStaticProps = async () => {
     props: {
       notes: data
     },
-    revalidate:10,
+    //revalidate:10,
   };
 };
 

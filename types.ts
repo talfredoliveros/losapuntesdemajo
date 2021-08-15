@@ -1,8 +1,7 @@
-import { string } from "prop-types"
-import interface Note {
+export interface  Note {
    id: string;
    title: string;
    level: string;
-   decriptcion: string;
+   description: string;
    file : string;
 }

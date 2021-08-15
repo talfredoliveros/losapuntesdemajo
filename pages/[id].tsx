@@ -1,4 +1,5 @@
-import type {NextPage} from 'next'
+import * as React from "react";
+import type {GetStaticPaths,GetStaticProps,NextPage} from 'next'
 import Head from 'next/head'
 import Image from 'next/image';
 
@@ -56,13 +57,12 @@ const Home: NextPage<Props> = ({note} ) => {
 
 
 export const getStaticProps: GetStaticProps<any,any> = async ({params: {id}}) => {
-  console.log({id});
   const note = data.find( (note) => note.id === id);
   return {
     props: {
       note,
     },
-    revalidate:10,
+    //revalidate:10,
   };
 };
 
